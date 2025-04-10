@@ -5,8 +5,11 @@ I'm a high school student at **Thomas Jefferson High School for Science and Tech
 I’ve built tools to improve productivity, educational resources, and engaging interactive experiences, and I aim to continue pushing the boundary of what students can create when they're given the freedom to explore deeply.
 
 Won **2nd Place in Behavioral and Social Sciences** at the International Science and Engineering Fair with project BEHA059: Identifying Underlying Brain Connections in Pediatric ADHD: A Pathway to Early Diagnosis and Reduced Secondary Effects.
+
 See More: [Public Portal](https://isef.net/project/beha059-pediatric-adhd-analysis-early-detect-less-impact)
+
 Research Paper @ SIPAIM: [Paper](https://ieeexplore.ieee.org/abstract/document/10783602)
+
 Google Scholar: [link](https://scholar.google.com/citations?user=bLt5b3sAAAAJ&hl=en)
 
 📍 **Current Interests**  
