@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Medha
 
-I'm a high school student at **Thomas Jefferson High School for Science and Technology (TJHSST)**, passionate about solving real-world problems with technology. I focus on projects that combine **machine learning, web development, game design, and social impact**—with a strong emphasis on usability, innovation, and purpose.
+I'm passionate about solving real-world problems with technology. I focus on projects that combine **machine learning, web development, game design, and social impact**—with a strong emphasis on usability, innovation, and purpose.
 
 I’ve built tools to improve productivity, educational resources, and engaging interactive experiences, and I aim to continue pushing the boundary of what students can create when they're given the freedom to explore deeply.
 
